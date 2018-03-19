@@ -1,0 +1,1 @@
+This project generates a maze using a recursive depth first search, or breadth first search algorithm.
