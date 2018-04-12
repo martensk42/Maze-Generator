@@ -1,1 +1,1 @@
-This project generates a maze using a recursive depth first search, or breadth first search algorithm.
+This project generates a maze using a recursive depth first search algorithm. There is an implementation in Java as well as C#.
